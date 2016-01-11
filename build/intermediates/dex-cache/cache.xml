@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/opt/Workspace/ELM/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/libs/internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="/opt/Workspace/ELM/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.1-e2b2887119833322dc1436449fc9c58ab5a09f48.jar" />
+    </item>
+    <item
+        jar="/opt/Workspace/ELM/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="/opt/Workspace/ELM/app/build/intermediates/pre-dexed/debug/classes-1c226a6729fca1fceec6827735ca0d254f8e7ac1.jar" />
+    </item>
+    <item
+        jar="/root/.gradle/caches/modules-2/files-2.1/org.igniterealtime.smack/smack-tcp/4.1.0/b5043991d7ed52da15089fcfcbca1dd862d1af42/smack-tcp-4.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b5043991d7ed52da15089fcfcbca1dd862d1af42">
+        <dex dex="/opt/Workspace/ELM/app/build/intermediates/pre-dexed/debug/smack-tcp-4.1.0-3f5a0e41885e87945284f2514f8c4afc33d39c9f.jar" />
+    </item>
+    <item
+        jar="/root/.gradle/caches/modules-2/files-2.1/org.igniterealtime.smack/smack-java7/4.1.0/747be99a203299badb9c51fc0778ead89ef4224f/smack-java7-4.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="747be99a203299badb9c51fc0778ead89ef4224f">
+        <dex dex="/opt/Workspace/ELM/app/build/intermediates/pre-dexed/debug/smack-java7-4.1.0-ea884b8be3a14c5d00e1f53787d352a57a8b8b66.jar" />
+    </item>
+    <item
+        jar="/root/.gradle/caches/modules-2/files-2.1/org.jxmpp/jxmpp-util-cache/0.4.2-beta1/43e2a81f52600639daeb02ede60cc498a13614a5/jxmpp-util-cache-0.4.2-beta1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="43e2a81f52600639daeb02ede60cc498a13614a5">
+        <dex dex="/opt/Workspace/ELM/app/build/intermediates/pre-dexed/debug/jxmpp-util-cache-0.4.2-beta1-5d82e40095561719db572c84d42d24199980ab17.jar" />
+    </item>
+    <item
+        jar="/root/.gradle/caches/modules-2/files-2.1/org.igniterealtime.smack/smack-extensions/4.1.0/b0968f9b209feb2f51d1a1e72238989271750625/smack-extensions-4.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b0968f9b209feb2f51d1a1e72238989271750625">
+        <dex dex="/opt/Workspace/ELM/app/build/intermediates/pre-dexed/debug/smack-extensions-4.1.0-d1e0b38769130f7e0193b8f0e3163567663dc509.jar" />
+    </item>
+    <item
+        jar="/root/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.1/support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="/opt/Workspace/ELM/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.1-d1acf46021f20f049c52e8e8d2eef24d273c7976.jar" />
+    </item>
+    <item
+        jar="/root/.gradle/caches/modules-2/files-2.1/org.igniterealtime.smack/smack-resolver-javax/4.1.0/9304ee368c07532100dc19e51d33992907c4e6e6/smack-resolver-javax-4.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9304ee368c07532100dc19e51d33992907c4e6e6">
+        <dex dex="/opt/Workspace/ELM/app/build/intermediates/pre-dexed/debug/smack-resolver-javax-4.1.0-6ab9dc802fd3476bac156bf7b41f075cd6437347.jar" />
+    </item>
+    <item
+        jar="/opt/Workspace/ELM/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="/opt/Workspace/ELM/app/build/intermediates/pre-dexed/debug/classes-7fce45c9a7dd3c3302ee05875117ac8755b270b7.jar" />
+    </item>
+    <item
+        jar="/opt/Workspace/ELM/app/build/intermediates/exploded-aar/com.android.support/design/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1821601ddbec5ff125653097812823388700af74">
+        <dex dex="/opt/Workspace/ELM/app/build/intermediates/pre-dexed/debug/classes-87e1babfcd961a515795876114fc28c3d7c27d4c.jar" />
+    </item>
+    <item
+        jar="/root/.gradle/caches/modules-2/files-2.1/org.igniterealtime.smack/smack-core/4.1.0/ad5c17dc5fe7f383118c5a3f1818b8789b697930/smack-core-4.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ad5c17dc5fe7f383118c5a3f1818b8789b697930">
+        <dex dex="/opt/Workspace/ELM/app/build/intermediates/pre-dexed/debug/smack-core-4.1.0-6e369bf2af85798826352e058118277a1e8ae3a1.jar" />
+    </item>
+    <item
+        jar="/root/.gradle/caches/modules-2/files-2.1/org.igniterealtime.smack/smack-im/4.1.0/4b6d736ad02f64ba54f4a5712a4a453a2c3848b1/smack-im-4.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4b6d736ad02f64ba54f4a5712a4a453a2c3848b1">
+        <dex dex="/opt/Workspace/ELM/app/build/intermediates/pre-dexed/debug/smack-im-4.1.0-c5d074c2c19e15e77b997139e4908d05ace525a8.jar" />
+    </item>
+    <item
+        jar="/root/.gradle/caches/modules-2/files-2.1/org.igniterealtime.smack/smack-sasl-javax/4.1.0/94849e716defea4a87c5917d2ecd572c65cc8397/smack-sasl-javax-4.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="94849e716defea4a87c5917d2ecd572c65cc8397">
+        <dex dex="/opt/Workspace/ELM/app/build/intermediates/pre-dexed/debug/smack-sasl-javax-4.1.0-cde5f50d6ed315fc8af6848f80d4cffee889abeb.jar" />
+    </item>
+    <item
+        jar="/root/.gradle/caches/modules-2/files-2.1/org.jxmpp/jxmpp-core/0.4.2-beta1/14ade1a89b0f6db4fa481f9f8a721cdec69374de/jxmpp-core-0.4.2-beta1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="14ade1a89b0f6db4fa481f9f8a721cdec69374de">
+        <dex dex="/opt/Workspace/ELM/app/build/intermediates/pre-dexed/debug/jxmpp-core-0.4.2-beta1-6d8039c298a425dbacbe36229894dfc4d70deb2b.jar" />
+    </item>
+
+</items>
