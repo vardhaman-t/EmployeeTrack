@@ -35,13 +35,13 @@
             android:hint="Your phone no."
             android:layout_below="@id/countryListSpinner"
             android:layout_toRightOf="@id/countryCodeTextView"
-            android:id="@+id/mobileNumberEditText"
+            android:id="@+id/mobileNumber"
             android:layout_width="match_parent"
             android:layout_height="wrap_content" />
         <Button
             android:id="@+id/buttonLetsGo"
             android:layout_alignParentRight="true"
-            android:layout_below="@id/mobileNumberEditText"
+            android:layout_below="@id/mobileNumber"
             android:text="Let's Go.."
             android:background="#FE8914"
             android:layout_width="wrap_content"
