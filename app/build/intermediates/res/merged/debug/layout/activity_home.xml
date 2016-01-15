@@ -22,4 +22,4 @@
         app:headerLayout="@layout/nav_header_home"
         app:menu="@menu/activity_home_drawer" />
 </android.support.v4.widget.DrawerLayout>
-<!-- From: file:/opt/Workspace/ELM/app/src/main/res/layout/activity_home.xml -->
+<!-- From: file:/root/EmployeeTrack/app/src/main/res/layout/activity_home.xml -->

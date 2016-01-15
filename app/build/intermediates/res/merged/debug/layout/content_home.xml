@@ -35,4 +35,4 @@
         android:layout_height="fill_parent"
         android:layout_below="@id/tab_layout"/>
 
-</RelativeLayout><!-- From: file:/opt/Workspace/ELM/app/src/main/res/layout/content_home.xml -->
+</RelativeLayout><!-- From: file:/root/EmployeeTrack/app/src/main/res/layout/content_home.xml -->

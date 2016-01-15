@@ -5,4 +5,4 @@
     <item android:id="@+id/action_settings" android:title="@string/action_settings"
         android:orderInCategory="100" app:showAsAction="always" />
 </menu>
-<!-- From: file:/opt/Workspace/ELM/app/src/main/res/menu/menu_pinned_top_tabs.xml -->
+<!-- From: file:/root/EmployeeTrack/app/src/main/res/menu/menu_pinned_top_tabs.xml -->

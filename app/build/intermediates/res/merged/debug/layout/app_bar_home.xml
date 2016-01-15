@@ -24,4 +24,4 @@
     <include layout="@layout/content_home" />
 
 </android.support.design.widget.CoordinatorLayout>
-<!-- From: file:/opt/Workspace/ELM/app/src/main/res/layout/app_bar_home.xml -->
+<!-- From: file:/root/EmployeeTrack/app/src/main/res/layout/app_bar_home.xml -->

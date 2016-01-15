@@ -4,4 +4,4 @@
     <padding android:left="10dp" android:right="10dp" android:top="10dp" android:bottom="10dp"/>
 
     <stroke android:width="1dip" android:color="#4fa5d5"/>
-</shape><!-- From: file:/opt/Workspace/ELM/app/src/main/res/drawable-v21/border.xml -->
+</shape><!-- From: file:/root/EmployeeTrack/app/src/main/res/drawable-v21/border.xml -->
